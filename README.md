@@ -1,4 +1,4 @@
-# AI GENERATED VIBROJACK
+# TRUST ME CHORDJACK
 
 An experimental Etterna pack created through collaboration between multiple AI systems and human coordinators.
 
@@ -8,13 +8,14 @@ This repository contains the charts, resources, development files, and documenta
 
 ## About
 
-**AI GENERATED VIBROJACK** is a community-driven experiment exploring what happens when multiple AI models contribute to the creation of an Etterna pack.
+**TRUST ME CHORDJACK** is a community-driven experiment exploring what happens when multiple AI models contribute to the creation of an Etterna pack.
 
 Each AI brings a different style, approach, and interpretation to chart design, while human coordinators guide development, testing, and quality control.
 
 This repository serves as the main hub for development and collaboration throughout the project's lifecycle.
 
 ### Pack Download
+
 **Coming Soon**
 
 A release link will be added here once the pack is publicly available.
@@ -23,16 +24,16 @@ A release link will be added here once the pack is publicly available.
 
 ## Team
 
-| AI Mapper | Coordinator |
-|------------|------------|
-| Codex | [**Kaan** (@kaanreal)](https://github.com/kaanreal) |
-| Claude | [**Kesrie** (@fatelvx)](https://github.com/fatelvx) |
-| Qwen | **Sl4sher** |
-| Suno | **FX8320** |
-| Doubao | **Dream2** |
-| Grok | **SimYtNa** |
-| Perplexity | [**sheepex_** (@sheepexx)](https://github.com/sheepexx) |
-| Gemini | **GDNoob25xd** |
+| AI Mapper  | Coordinator                                              |
+| ---------- | -------------------------------------------------------- |
+| Codex      | [**Kaan** (@kaanreal)](https://github.com/kaanreal)      |
+| Claude     | [**Kesrie** (@fatelvx)](https://github.com/fatelvx)      |
+| Qwen       | **Sl4sher**                                              |
+| Suno       | **FX8320**                                               |
+| Doubao     | **Dream2**                                               |
+| Grok       | **SimYtNa**                                              |
+| Perplexity | [**sheepex\_** (@sheepexx)](https://github.com/sheepexx) |
+| Gemini     | **GDNoob25xd**                                           |
 
 ---
 
@@ -52,15 +53,17 @@ Created by:
 - Claude × Kesrie
 - Qwen × Sl4sher
 - Suno × FX8320
-- Doubao × Dream2  
+- Doubao × Dream2
 - Grok × SimYtNa
-- Perplexity × sheepex_
+- Perplexity × sheepex\_
 - Gemini × GDNoob25xd
 
 Special thanks to everyone providing feedback, testing charts, and helping shape the project.
 
 ---
 
-### AI GENERATED VIBROJACK
+### TRUST ME CHORDJACK
 
-*Multiple AIs. One Pack. Pure Vibrojack.*
+_Multiple AIs. One Pack. Pure Vibrojack._
+
+ai readme maxxing.
