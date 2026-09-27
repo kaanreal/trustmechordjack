@@ -1,0 +1,32 @@
+#TITLE:unknown;
+#SUBTITLE:;
+#ARTIST:;
+#TITLETRANSLIT:;
+#SUBTITLETRANSLIT:;
+#ARTISTTRANSLIT:;
+#GENRE:;
+#CREDIT:;
+#MUSIC:napalm.mp3;
+#BANNER:;
+#BACKGROUND:;
+#CDTITLE:;
+#SAMPLESTART:0.000;
+#SAMPLELENGTH:0.000;
+#SELECTABLE:YES;
+#OFFSET:-0.133;
+#BPMS:0.000=170.000;
+#STOPS:;
+#BGCHANGES:;
+#FGCHANGES:;
+//--------------- dance-single - FX8320 ----------------
+#NOTES:
+     dance-single:
+     FX8320:
+     Hard:
+     8320:
+     0,0,0,0,0:
+0000
+0000
+0000
+0000
+;
