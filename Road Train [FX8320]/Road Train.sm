@@ -9,7 +9,7 @@
 #MUSIC:Road Train.mp3;
 #BANNER:bn.jpg;
 #BACKGROUND:bg.png;
-#CDTITLE:;
+#CDTITLE:cdtitle.png;
 #SAMPLESTART:39.864;
 #SAMPLELENGTH:33.383;
 #SELECTABLE:YES;

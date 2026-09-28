@@ -9,7 +9,7 @@
 #MUSIC:vibro_guys_-_Vibro_pacany_(SkySound.cc).mp3;
 #BANNER:bn.png;
 #BACKGROUND:bg.png;
-#CDTITLE:;
+#CDTITLE:cdtitle.png;
 #SAMPLESTART:42.096;
 #SAMPLELENGTH:29.781;
 #SELECTABLE:YES;
